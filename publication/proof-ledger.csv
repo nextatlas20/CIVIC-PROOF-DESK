@@ -1,0 +1,14 @@
+deadline,notice_id,title,district,locale,event_id,proof_state,notice_printable,release_wave
+2026-09-29,NT-402,Night Bus Hearing,CENTRAL,en,PE-1010,approved,yes,1
+2026-09-29,NT-402,Night Bus Hearing,CENTRAL,ar,PE-1012,approved,yes,1
+2026-09-30,NT-406,Floodplain Map,SOUTH,en,PE-1040,approved,yes,2
+2026-09-30,NT-406,Floodplain Map,SOUTH,zh,PE-1041,approved,yes,2
+2026-09-30,NT-406,Floodplain Map,SOUTH,es,PE-1043,approved,yes,2
+2026-10-01,NT-403,Tree Canopy Survey,SOUTH,en,PE-1020,approved,no,
+2026-10-01,NT-403,Tree Canopy Survey,SOUTH,zh,PE-1022,rejected,no,
+2026-10-01,NT-403,Tree Canopy Survey,SOUTH,es,,missing,no,
+2026-10-02,NT-405,Library Hours,CENTRAL,en,PE-1031,pending,no,
+2026-10-02,NT-405,Library Hours,CENTRAL,ar,PE-1032,approved,no,
+2026-10-03,NT-401,Heat Pump Rebate,NORTH,en,PE-1001,approved,no,
+2026-10-03,NT-401,Heat Pump Rebate,NORTH,es,PE-1003,pending,no,
+2026-10-03,NT-401,Heat Pump Rebate,NORTH,vi,PE-1004,approved,no,
