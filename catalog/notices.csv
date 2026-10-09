@@ -1,0 +1,11 @@
+notice_id,title,district,deadline,active
+NT-401,Heat Pump Rebate,NORTH,2026-10-03,yes
+NT-402,Night Bus Hearing,CENTRAL,2026-09-29,yes
+NT-403,Tree Canopy Survey,SOUTH,2026-10-01,yes
+NT-404,Winter Parking Archive,NORTH,2026-09-28,no
+NT-405,Library Hours,CENTRAL,2026-10-02,yes
+NT-406,Floodplain Map,SOUTH,2026-09-30,yes
+NT-40X,Bad Identifier,NORTH,2026-10-04,yes
+NT-407,,CENTRAL,2026-10-04,yes
+NT-408,Wrong Date,NORTH,2026-02-30,yes
+NT-409,Unknown District,EAST,2026-10-05,yes
